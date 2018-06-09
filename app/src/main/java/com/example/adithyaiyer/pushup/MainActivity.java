@@ -11,6 +11,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    private void doNothing(){
+        int k=1;
+
+    }
+
     private void TestUpdate(){
         int i =1+1;
         int ii=2+2;

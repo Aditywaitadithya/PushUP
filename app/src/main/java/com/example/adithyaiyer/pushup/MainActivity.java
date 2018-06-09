@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void doNothing(){
         int k=1;
-
+        int j=0;
     }
 
     private void TestUpdate(){

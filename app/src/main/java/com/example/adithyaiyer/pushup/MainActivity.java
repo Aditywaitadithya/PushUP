@@ -26,6 +26,6 @@ public class MainActivity extends AppCompatActivity {
         String testMerge="test";
         int t=0;
         int l=0;
-
+        String Message2="change in br2";
     }
 }

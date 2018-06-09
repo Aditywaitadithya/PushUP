@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         String testMerge="test";
         int t=0;
         int l=0;
+        String message="change in branch 1";
 
     }
 }

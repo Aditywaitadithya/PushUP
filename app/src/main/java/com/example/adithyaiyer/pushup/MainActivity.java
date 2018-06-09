@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         int iiii=iii;
         int j=i;
         String Test="test";
-
+        String testMerge="test";
 
     }
 }

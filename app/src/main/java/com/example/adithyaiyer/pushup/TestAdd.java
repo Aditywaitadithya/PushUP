@@ -4,7 +4,8 @@ public class TestAdd {
 
     public void testCarry(){
         int j=0;
-        int k=1;
+        int k=2;
+
 
     }
 }
